@@ -1,4 +1,4 @@
-.bigback {}
+
 
 #mainh {background-color : #1F2833;
 font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -18,7 +18,7 @@ font-family: 'kaushan script', cursive;
 
 }
 
-.parealeft{ background-color: #BC986a;
+.paleft{ background-color: #BC986a;
     border-bottom-left-radius: 0PX;
     padding: 10PX;
     float :left;
@@ -28,6 +28,12 @@ font-family: 'kaushan script', cursive;
  height: 600PX;
 }
 
+
+#mainph {
+    
+    width: 1200px;
+    margin: auto;
+}
 
 
 /* 
@@ -41,7 +47,7 @@ prof img  */
     margin-right:25px;
 }
 
-.parearight {
+.paright {
     background-color:#45A29E;
     border-bottom-right-radius: 0PX;
     padding: 10PX;
@@ -56,23 +62,28 @@ h2~p {
     color:  White;
     stroke-width: 2px;
     stroke: cadetblue;
+    text-shadow: 2px 2px 8px black;
 }
 
 
-.footer {background-color : #061b35;
+.footer {background-color : #1F2833;
     font-family: none;
     width: none;
     height: 5px;
-    color: #6cfcf1;
-    padding-left: 50px;
+    color: wheat;
+    padding-left: 220px;
     padding-top: 5px;
     padding-bottom: 20PX;
     border-bottom-left-radius: 18px;
     border-bottom-right-radius: 18px;
-    margin: ;
+ 
     margin-left: auto;   
     margin-right: 0%;
     font-size: 20px;
     font-family: 'kaus0han script', cursive;
     
+}
+
+#drcollege {
+    color: black;
 }
